@@ -1,0 +1,12 @@
+/Users/erickmeraz/Desktop/Date/Date/Date/bin/Debug/netcoreapp3.1/Date.deps.json
+/Users/erickmeraz/Desktop/Date/Date/Date/bin/Debug/netcoreapp3.1/Date.runtimeconfig.json
+/Users/erickmeraz/Desktop/Date/Date/Date/bin/Debug/netcoreapp3.1/Date.runtimeconfig.dev.json
+/Users/erickmeraz/Desktop/Date/Date/Date/bin/Debug/netcoreapp3.1/Date.dll
+/Users/erickmeraz/Desktop/Date/Date/Date/bin/Debug/netcoreapp3.1/Date.pdb
+/Users/erickmeraz/Desktop/Date/Date/Date/obj/Debug/netcoreapp3.1/Date.csprojAssemblyReference.cache
+/Users/erickmeraz/Desktop/Date/Date/Date/obj/Debug/netcoreapp3.1/Date.AssemblyInfoInputs.cache
+/Users/erickmeraz/Desktop/Date/Date/Date/obj/Debug/netcoreapp3.1/Date.AssemblyInfo.cs
+/Users/erickmeraz/Desktop/Date/Date/Date/obj/Debug/netcoreapp3.1/Date.csproj.CoreCompileInputs.cache
+/Users/erickmeraz/Desktop/Date/Date/Date/obj/Debug/netcoreapp3.1/Date.dll
+/Users/erickmeraz/Desktop/Date/Date/Date/obj/Debug/netcoreapp3.1/Date.pdb
+/Users/erickmeraz/Desktop/Date/Date/Date/obj/Debug/netcoreapp3.1/Date.genruntimeconfig.cache
